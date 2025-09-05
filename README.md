@@ -7,10 +7,9 @@ This app helps you manage tasks with a clean UI, smooth navigation, and easy tas
 
 ## 📸 Screenshots
 
-| Home Screen | Settings Screen |
-| ----------- | -------------- |
-| ![Home](screenshots/home-screen.png) | ![Settings](screenshots/settings1.png) | ![Settings](screenshots/settings2.png) |
-
+| Home Screen | Tasks Screen | Settings Screen |
+| ----------- | ------------ | --------------- |
+| ![Home](screenshots/home-screen.png.jpeg) | ![Tasks](screenshots/settings1.png.jpeg) | ![Settings](screenshots/settings2.png.jpeg) |
 ---
 
 ## ✨ Features
